@@ -20,22 +20,34 @@ partir de ce modèle que j'ai travaillé : je ne suis pas repartie de zéro.
 
 ## La démarche
 
-Je suis partie de l'ancien modèle et, surtout, des listes de tâches fournies par
-les différents services — principalement les affaires cliniques et le développement
-CMC, qui m'ont transmis le détail de leurs activités. Mon travail a d'abord
-consisté à comprendre ces tâches, puis à les retranscrire dans Wrike. Il a fallu
-me familiariser avec leur enchaînement, c'est-à-dire leurs prédécesseurs et leurs
-successeurs, pour respecter l'ordre logique du projet. Le planning ne contient
-d'ailleurs pas seulement les activités du chef de projet, mais l'ensemble des
-activités du projet, portées par les différentes fonctions.
+Mon travail s'est construit en plusieurs temps. J'ai d'abord pris en main Wrike de
+manière générale : comprendre son fonctionnement, créer un modèle, partager des
+dossiers. L'objectif n'était pas seulement de savoir monter un projet, mais d'avoir
+une vue d'ensemble de l'outil.
 
-Au-delà de la simple transcription, j'ai cherché à harmoniser l'ensemble pour que
-chaque département retrouve clairement sa propre liste de tâches, sans que les
-activités des uns et des autres se mélangent. Certaines tâches figuraient en effet
-au mauvais endroit : par exemple, une tâche classée dans la partie clinique était
-en réalité réalisée par les affaires réglementaires. J'ai donc réattribué ces
-tâches au bon service, tout en restant fidèle à la procédure, comme dans l'ancien
-modèle.
+J'ai ensuite analysé les procédures internes — celle du médicament, puis celle du
+dispositif médical, arrivée plus tard, environ deux semaines avant la fin du stage.
+Cette analyse m'a permis de dégager les grandes lignes que les modèles devaient
+suivre.
+
+Je suis alors entrée dans le concret, à partir de l'ancien modèle et des listes de
+tâches fournies par les services, principalement le développement et les affaires
+cliniques. J'ai particulièrement échangé avec le département développement : il m'a
+transmis ses listes de tâches, signalé ce qui manquait ou ce qui changeait, et nous
+avons regardé ensemble comment relier les tâches entre elles et traiter les
+doublons, afin de coller à ce qu'il attend réellement. Ces échanges ne se faisaient
+pas toujours en tête-à-tête : j'y participais parfois avec d'autres membres de
+l'équipe, lors de points avec le référent du département.
+
+La transcription dans Wrike supposait de comprendre l'enchaînement des tâches —
+leurs prédécesseurs et leurs successeurs — pour respecter l'ordre logique du projet.
+Le modèle rassemble d'ailleurs l'ensemble des activités du projet, portées par les
+différentes fonctions, et pas seulement celles du chef de projet. Au-delà de cette
+transcription, j'ai cherché à harmoniser l'ensemble pour que chaque département
+retrouve clairement sa liste de tâches, sans que les activités se mélangent :
+certaines figuraient au mauvais endroit — par exemple une tâche classée en clinique
+mais réalisée par le réglementaire — et je les ai réattribuées au bon service, tout
+en restant fidèle à la procédure.
 
 ## Le rendu
 
