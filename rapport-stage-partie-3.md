@@ -10,11 +10,10 @@ sens, un peu comme un chef d'orchestre.
 
 C'est avant tout un métier d'interface. Le chef de projet se situe au carrefour de
 tous les métiers impliqués dans un projet, et son travail consiste à les faire
-dialoguer et à garder une cohérence sur l'ensemble. Cette transversalité est réelle
-: un projet mobilise une grande partie des fonctions de l'entreprise, comme le
-montre la figure ci-dessous.
-
-![Figure 3 — Grandes fonctions de l'entreprise et fonctions impliquées dans les projets](orgchart-fonctions.png)
+dialoguer et à garder une cohérence sur l'ensemble. Cette transversalité est
+réelle : un projet mobilise une grande partie des fonctions de l'entreprise — la
+R&D et les affaires médicales, les affaires réglementaires, la qualité, la
+vigilance, la production, la supply chain ou encore le marketing.
 
 Concrètement, le chef de projet pilote son projet du début à la fin. Il en
 planifie les étapes, fixe les jalons et les livrables, anime les réunions et

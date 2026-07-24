@@ -8,7 +8,7 @@ une vision d'ensemble. Un « modèle de projet » y sert de base préremplie : p
 que de repartir de zéro à chaque nouveau projet, on part d'un modèle qui contient
 déjà les grandes étapes et les activités habituelles.
 
-[Insérer ici une capture d'écran de Wrike / d'un modèle de projet — Figure 5]
+[Insérer ici une capture d'écran de Wrike / d'un modèle de projet — Figure 4]
 
 ## La situation de départ
 
@@ -40,4 +40,4 @@ Le modèle retravaillé est directement utilisable par l'équipe dans Wrike. Il 
 à faire gagner du temps au moment de mettre en place un planning et à harmoniser la
 façon de suivre les projets au sein du service.
 
-[Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 6]
+[Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 5]
