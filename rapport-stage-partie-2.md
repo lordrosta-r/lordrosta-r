@@ -1,77 +1,68 @@
 # II — L'organisation de mon service : la Direction Projet Innovation
 
-Pendant mon stage, j'étais rattachée à la Direction Projet Innovation. C'est une
-petite équipe, une douzaine de personnes environ. Et travailler dans un service
-de cette taille, c'est plutôt agréable : l'information circule vite, on peut
-poser une question ou échanger avec quelqu'un sans avoir à passer par toute une
-hiérarchie. Tout le monde sait à peu près sur quoi les autres travaillent.
+L'innovation fait intervenir de nombreux métiers et expertises au sein de
+l'entreprise. Elle constitue d'ailleurs l'une des grandes activités des
+Laboratoires Théa, aux côtés du life cycle management, des projets structurants ou
+encore de l'IT. Pendant mon stage, j'étais rattachée à la Direction Projet
+Innovation, l'équipe chargée de piloter les projets d'innovation.
 
-L'équipe est organisée sur trois niveaux. Il y a d'abord la direction, puis deux
-responsables projet qui encadrent chacune leur groupe de chefs de projet, et
-enfin les chefs de projet. À côté de ça, quelques personnes occupent des
-fonctions support rattachées directement à la direction.
+C'est une petite équipe, d'une douzaine de personnes, ce qui a un vrai avantage :
+l'information circule vite et on peut échanger facilement, sans passer par toute
+une hiérarchie.
 
-## Cyrille Boussard, à la tête du service
+L'équipe s'organise sur trois niveaux : une direction, deux responsables projet
+qui encadrent chacune un groupe de chefs de projet, et les chefs de projet
+eux-mêmes. À cela s'ajoutent quelques fonctions support rattachées directement à
+la direction (Figure 2).
 
-Cyrille Boussard dirige la Direction Projet Innovation. Son poste s'intitule exactement
-« Directeur Projet Portfolio Innovation ». Ce n'est pas seulement un rôle de
-manager qui encadre des collaborateurs : c'est une vraie fonction de direction,
-et sa responsabilité va bien au-delà du suivi d'un projet en particulier.
+![Figure 2 — Organigramme de la Direction Projet Innovation](orgchart-equipe.png)
 
-En réalité, sa mission a deux faces. D'un côté l'innovation : il repère les
-opportunités, met en relation les bonnes personnes et fait le lien entre les
-équipes internes et les partenaires extérieurs pour faire avancer les nouveaux
-projets. De l'autre, ce qu'on appelle le « portfolio », c'est-à-dire l'ensemble
-des projets que mène l'équipe en même temps, qu'il faut suivre dans leur
-globalité et pas seulement un par un. C'est lui qui garde cette vue d'ensemble :
-il décide des priorités quand il faut trancher, répartit les moyens entre les
-projets et s'assure que tout reste cohérent avec la stratégie de l'entreprise.
-C'est cette vision globale qui fait la différence avec un simple rôle
-d'encadrement, et c'est ce que veut dire « portfolio » dans son intitulé.
+## À la tête du service : le Directeur Projet Portfolio Innovation
 
-Il représente aussi le service dans certaines instances de l'entreprise. Comme
-il a une vue globale sur l'ensemble des projets, c'est logiquement lui qui en
-fait la synthèse : il la met en forme, dans un document par exemple, et la
-transmet à la direction générale. Celle-ci dispose ainsi d'une vision claire de
-l'avancée des projets, par exemple sur l'ensemble d'une année.
+Cyrille Boussard dirige la Direction Projet Innovation. Son poste s'intitule
+exactement « Directeur Projet Portfolio Innovation ». Ce n'est pas seulement un
+rôle de manager : c'est une fonction de direction, dont la responsabilité dépasse
+le suivi d'un projet en particulier.
 
-Il y a d'ailleurs une nuance à laquelle je tiens. Le service, lui, s'appelle la
-Direction Projet Innovation, et c'est à ce service que j'étais rattachée, comme
-le reste de l'équipe. Le « Portfolio », en revanche, ne concerne que le poste de
-Cyrille : c'est sa mission à lui de piloter l'ensemble du portefeuille de
-projets. Ce n'est donc pas le nom d'un service à part dont j'aurais fait partie.
+Sa mission a deux volets. Le premier est l'innovation : repérer les opportunités,
+mettre en relation les bonnes personnes et faire le lien entre les équipes
+internes et les partenaires extérieurs pour faire avancer les nouveaux projets. Le
+second est le « portfolio », c'est-à-dire l'ensemble des projets menés en
+parallèle par l'équipe, suivis dans leur globalité plutôt qu'un par un. C'est lui
+qui garde cette vue d'ensemble : il arbitre les priorités, répartit les moyens
+entre les projets et veille à ce que tout reste cohérent avec la stratégie de
+l'entreprise. C'est cette dimension de pilotage global qui fait la différence avec
+un simple rôle d'encadrement, et c'est ce que recouvre le mot « portfolio » dans
+son intitulé.
 
-Autour de la direction, on trouve aussi plusieurs fonctions support. Céline
-Seignez est assistante métier. Et deux personnes s'occupent du CIR (Crédit d'Impôt
-Recherche) et des outils de gestion de projet : Mélanie Spilmont, responsable
-CIR, et François Pinchon, qui gère l'analyse de données CIR et les outils. Ces
-personnes interviennent pour toute l'équipe, de façon transversale.
+Il faut d'ailleurs distinguer deux choses. Le service, lui, s'appelle la Direction
+Projet Innovation ; c'est à lui que j'étais rattachée, comme le reste de l'équipe.
+Le « portfolio », en revanche, ne concerne que le poste de Cyrille Boussard : il
+renvoie à sa mission de pilotage global du portefeuille de projets, et non au nom
+d'un service à part.
 
-## Les responsables projet
+Autour de la direction interviennent plusieurs fonctions support : une assistante
+métier, ainsi que des fonctions liées au CIR (Crédit d'Impôt Recherche) et aux
+outils de gestion de projet. Elles interviennent de façon transversale, en appui
+de toute l'équipe.
+
+## Le niveau intermédiaire : les responsables projet
 
 Sous la direction, deux responsables projet encadrent chacune un groupe de chefs
-de projet : Graziella Couleru et Julie Babon. Ce sont un peu les intermédiaires
-entre la direction et les chefs de projet. Elles suivent l'avancement des
-projets de leur groupe et accompagnent les chefs de projet au jour le jour.
+de projet : Graziella Couleru et Julie Babon. Elles font le relais entre la
+direction et les chefs de projet, suivent l'avancement des projets de leur groupe
+et accompagnent les chefs de projet au quotidien.
 
-Mais leur rôle ne s'arrête pas au suivi des projets : elles assurent aussi un
-véritable accompagnement humain. Ce sont elles qui définissent les attendus des
-chefs de projet sur l'année, qui les encadrent au quotidien et qui interviennent
-quand il faut, par exemple en cas de litige ou de tension au sein du service. En
-somme, elles veillent autant à la bonne marche des projets qu'aux bonnes
-conditions de travail de leur équipe.
-
-Un point important, enfin : ces responsables sont elles-mêmes chefs de projet.
-En parallèle de l'encadrement de leur groupe, elles pilotent leurs propres
-projets, exactement comme les autres chefs de projet de l'équipe.
+Leur rôle ne s'arrête pas au suivi des projets : elles assurent aussi un
+accompagnement plus humain. Ce sont elles qui définissent les attendus des chefs
+de projet sur l'année, qui les encadrent au jour le jour et qui interviennent en
+cas de litige ou de tension au sein du service. Un point mérite d'être souligné :
+ces responsables sont elles-mêmes chefs de projet et pilotent, en parallèle de
+l'encadrement de leur groupe, leurs propres projets, comme les autres membres de
+l'équipe.
 
 ## Les chefs de projet
 
-Viennent enfin les chefs de projet, ceux qui font concrètement avancer les
-projets au quotidien. Le groupe de Graziella Couleru réunit Amanie Taan, Alice
-Latour et Céline Masson (consultante). Celui de Julie Babon rassemble Camille
-Bigeault, Mickael Vey et Sandrine Guyon.
-
-Ma tutrice, Alice Latour, est justement chef de projet dans le groupe de
-Graziella Couleru. Comme son métier a été au centre de mon stage, j'y reviens
-plus en détail dans la partie suivante.
+Viennent enfin les chefs de projet, qui font concrètement avancer les projets au
+quotidien. Leur métier ayant été au cœur de mon stage, je le détaille dans la
+partie suivante.

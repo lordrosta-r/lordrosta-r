@@ -1,28 +1,43 @@
-# V — Mon projet : optimiser les modèles de projet dans Wrike
+# V — Mon projet : un modèle de projet pour accélérer l'utilisation de Wrike
 
-Au début de mon stage, il existait déjà un modèle de projet dans Wrike, mais il
-n'était plus utilisé pour le moment : il devait être mis à jour pour répondre à
-des exigences documentaires internes. En plus de ça, ce modèle ne collait pas
-toujours assez à la réalité du terrain : il ne reflétait pas précisément les
-activités propres à chaque service qui intervient sur un projet (développement,
-réglementaire, qualité…). C'est là-dessus que j'ai travaillé.
+## L'outil : Wrike
 
-Le principe, c'était de reprendre les grandes étapes du cycle de vie d'un produit
-— celles que j'ai présentées juste avant, de l'idée de projet jusqu'à la mise sur
-le marché — et de les transposer dans Wrike sous une forme vraiment utilisable.
-Il ne s'agissait pas de recopier ce cycle de façon théorique, mais de le traduire
-en tâches, en jalons et en échéances concrètes, directement exploitables au
-quotidien par les chefs de projet. Les modèles devaient aussi faire apparaître
-les moments où le chef de projet coordonne son travail avec les autres services,
-sans pour autant devenir compliqués à utiliser.
+Wrike est une plateforme collaborative de gestion de projet. L'équipe l'utilise
+pour planifier ses projets, répartir les tâches, suivre leur avancement et garder
+une vision d'ensemble. Un « modèle de projet » y sert de base préremplie : plutôt
+que de repartir de zéro à chaque nouveau projet, on part d'un modèle qui contient
+déjà les grandes étapes et les activités habituelles.
 
-Concrètement, j'ai avancé petit à petit, en échangeant régulièrement avec les
-chefs de projet de l'équipe. Ce sont eux qui connaissent le mieux leur activité,
-et leurs retours m'ont permis d'ajuster les modèles pour qu'ils correspondent
-vraiment à leur façon de travailler.
+[Insérer ici une capture d'écran de Wrike / d'un modèle de projet — Figure 5]
 
-Au final, ce travail a abouti à des modèles retravaillés, plus proches de
-l'activité réelle des équipes et plus simples à réutiliser d'un projet à l'autre.
-L'idée était qu'ils fassent gagner du temps au moment de mettre en place un
-planning, et qu'ils aident à suivre les projets de manière plus homogène au sein
-du service.
+## La situation de départ
+
+Au début de mon stage, un modèle de projet existait déjà et était utilisé par
+l'équipe. Il était toutefois figé : il devait être mis à jour pour répondre à
+certaines exigences internes, et il ne reflétait plus assez précisément les
+activités réellement menées dans les projets. C'est ce modèle que j'ai été chargée
+de reprendre.
+
+## La démarche
+
+Mon travail a consisté à revoir ce modèle étape par étape. Je suis partie des
+grandes étapes d'un projet et je les ai traduites, dans Wrike, en tâches, en jalons
+et en échéances directement utilisables au quotidien. Le planning ne contient
+d'ailleurs pas seulement les activités du chef de projet, mais l'ensemble des
+activités du projet, portées par les différentes fonctions (développement,
+réglementaire, qualité…).
+
+Pour que le modèle colle à la réalité, j'ai avancé par échanges successifs. J'ai
+discuté avec les chefs de projet, qui connaissent le mieux le déroulé des projets,
+et avec les référents des différentes fonctions, afin de comprendre comment leurs
+activités s'enchaînent — par exemple au sein du développement CMC. Leurs retours
+m'ont permis d'ajuster le modèle : mettre à jour les activités existantes et en
+ajouter de nouvelles qui n'étaient pas encore répertoriées.
+
+## Le résultat
+
+Le modèle retravaillé est directement utilisable par l'équipe dans Wrike. Il vise
+à faire gagner du temps au moment de mettre en place un planning et à harmoniser la
+façon de suivre les projets au sein du service.
+
+[Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 6]

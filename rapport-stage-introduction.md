@@ -1,32 +1,28 @@
 # Introduction
 
-J'ai réalisé mon stage de fin de troisième année de Licence Chimie à l'interface
-de la Biologie – Accès Santé (L.AS), à l'Université Clermont Auvergne. Ce stage
-volontaire s'est déroulé de mi-juin à fin juillet 2026 aux Laboratoires Théa, à
-Clermont-Ferrand. J'y ai rejoint la Direction Projet Innovation, où Alice
-Latour, chef de projet, m'a encadrée. C'était pour moi une première vraie
-immersion dans l'industrie pharmaceutique.
+J'ai effectué mon stage de fin de troisième année de Licence Chimie – Interface
+Biologie Accès Santé (L.AS), à l'Université Clermont Auvergne, de mi-juin à fin
+juillet 2026, aux Laboratoires Théa, à Clermont-Ferrand. J'ai rejoint la
+Direction Projet Innovation, sous la supervision d'Alice Latour, ma tutrice, et
+sous la responsabilité de Graziella Couleru.
 
-Pendant ces quelques semaines, j'ai surtout travaillé sur les modèles de
-planning de Wrike, l'outil que l'équipe utilise pour planifier et suivre ses
-projets. Ma mission consistait à revoir ces modèles : mettre à jour les
-activités déjà en place pour qu'elles collent vraiment aux tâches que réalisent
-les équipes, et en ajouter de nouvelles qui n'y figuraient pas encore. L'idée
-était que les plannings correspondent mieux à ce qui se passe réellement sur le
-terrain.
+Le sujet de mon stage portait sur la création d'un modèle de projet destiné à
+rendre plus rapide l'utilisation de Wrike, l'outil de planification sur lequel
+l'équipe suit ses projets. Dans les faits, un modèle existait déjà et était
+utilisé, mais il était figé : il devait être mis à jour pour répondre à des
+exigences internes, et il ne reflétait plus assez précisément les activités
+réelles des projets. Mon travail a donc consisté à le reprendre et à le compléter
+pour qu'il corresponde mieux à ce que font réellement les équipes.
 
-Ce stage ne m'a pas seulement appris à me servir d'un outil. Il m'a aussi fait
-découvrir les enjeux de l'innovation dans le secteur pharmaceutique, et m'a
-permis de progresser en organisation, en travail d'équipe et en rigueur. En
-discutant tous les jours avec les chefs de projet, j'ai aussi pu voir
-concrètement en quoi consiste la gestion de projet. Je ne l'ai pas exercée
-moi-même, mais je les ai vus faire, et j'ai compris — au-delà de ce qu'on peut
-en lire — ce que ce métier demande au quotidien et comment les différentes
-personnes d'un projet travaillent ensemble.
+Ce stage a été pour moi une première immersion dans l'industrie pharmaceutique.
+Il m'a permis de progresser en organisation, en travail d'équipe et en rigueur.
+En échangeant chaque jour avec les chefs de projet, j'ai aussi pu observer
+concrètement en quoi consiste la gestion de projet : je ne l'ai pas exercée
+moi-même, mais je les ai vus faire, et j'ai compris, au-delà de la théorie, ce
+que ce métier demande au quotidien.
 
-Pour ce rapport, je commencerai par présenter les Laboratoires Théa et leur
-environnement. Je décrirai ensuite l'organisation de la Direction Projet
-Innovation, puis le métier de chef de projet. Je reviendrai aussi sur les
-grandes étapes du cycle de vie d'un médicament, pour mieux situer le cadre de ma
-mission. Je terminerai par le détail du travail réalisé sur Wrike, puis par un
-bilan de ce que ce stage m'a apporté.
+Dans ce rapport, je présenterai d'abord les Laboratoires Théa et leur
+environnement, puis l'organisation de la Direction Projet Innovation et le métier
+de chef de projet. Je situerai ensuite mon travail dans le cycle de vie d'un
+produit de santé et dans le périmètre des projets suivis par l'équipe, avant de
+détailler la mission que j'ai réalisée sur Wrike et d'en dresser le bilan.
