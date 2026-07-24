@@ -19,8 +19,11 @@ adéquation entre les plannings et la réalité opérationnelle.
 
 Au-delà de son aspect technique, ce stage m'a permis d'appréhender les enjeux
 liés à l'innovation dans le domaine pharmaceutique et de développer de nouvelles
-compétences en organisation, en gestion de projet et en travail collaboratif.
-J'ai également pu observer la manière dont les différents acteurs d'un projet
+compétences en organisation, en travail collaboratif et en rigueur. À travers
+mes échanges quotidiens avec les chefs de projet, j'ai par ailleurs pu observer
+concrètement en quoi consiste la gestion de projet : sans l'exercer moi-même,
+j'ai découvert leurs méthodes et compris, au-delà de la théorie, ce que recouvre
+ce métier, ainsi que la manière dont les différents acteurs d'un projet
 interagissent pour faire avancer les initiatives de l'entreprise.
 
 Dans ce rapport, je présenterai tout d'abord les Laboratoires Théa et leur
