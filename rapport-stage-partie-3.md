@@ -5,8 +5,7 @@ développement d'un produit de santé prend souvent plusieurs années et fait
 intervenir de nombreux métiers : recherche, développement, réglementaire, qualité,
 production, marketing, sans oublier les fonctions support. Le chef de projet n'est
 spécialiste d'aucun de ces domaines en particulier. Son rôle est de tenir le fil
-de l'ensemble et de faire en sorte que tous ces acteurs avancent dans le même
-sens, un peu comme un chef d'orchestre.
+de l'ensemble et de faire en sorte que tous ces acteurs avancent dans le même sens.
 
 C'est avant tout un métier d'interface. Le chef de projet se situe au carrefour de
 tous les métiers impliqués dans un projet, et son travail consiste à les faire
@@ -39,6 +38,6 @@ On comprend alors pourquoi les chefs de projet ont besoin d'outils de
 planification fiables. Suivre autant de tâches, d'interlocuteurs et d'échéances
 demande de s'appuyer sur des supports solides, pour ne pas perdre de temps sur le
 suivi purement administratif — mettre à jour les plannings, saisir les
-informations, préparer les points d'avancement — au détriment de la coordination
-et de l'anticipation. C'est ce constat qui donne tout son sens à la mission qui
-m'a été confiée, et que je détaille plus loin.
+informations, préparer les points d'avancement — au détriment de ses missions à
+plus forte valeur ajoutée. La mission qui m'a été confiée, que je détaille plus
+loin, répond directement à ce constat.

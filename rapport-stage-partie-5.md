@@ -2,9 +2,9 @@
 
 ## L'outil : Wrike
 
-Wrike est une plateforme collaborative de gestion de projet. L'équipe l'utilise
-pour planifier ses projets, répartir les tâches, suivre leur avancement et garder
-une vision d'ensemble. Un « modèle de projet » y sert de base préremplie : plutôt
+Wrike est la plateforme de gestion de projet utilisée par l'équipe pour planifier,
+répartir les tâches et suivre l'avancement des projets. Un « modèle de projet » y
+sert de base préremplie : plutôt
 que de repartir de zéro à chaque nouveau projet, on part d'un modèle qui contient
 déjà les grandes étapes et les activités habituelles.
 
@@ -37,11 +37,11 @@ départements pour relier les tâches entre elles : comprendre à quoi les ancie
 tâches correspondaient dans leurs nouvelles listes, voir comment ils regroupaient
 certaines activités pour gagner en efficacité, et repérer les doublons. Ces
 échanges prenaient surtout la forme de réunions. Avec le département CMC, par
-exemple, j'ai eu deux points en tête-à-tête ; d'autres se faisaient en équipe, lors
-de points avec le référent du département concerné. Des échanges plus informels
-m'ont également aidée à orienter l'organisation dans Wrike. En parallèle, un point
-de suivi en début de chaque semaine permettait de faire le bilan de mon avancement
-et de cadrer le travail à venir.
+exemple, j'ai eu deux entretiens en tête-à-tête ; d'autres se faisaient en équipe,
+lors de réunions avec le référent du département concerné. Des discussions plus
+informelles m'ont également aidée à orienter l'organisation dans Wrike. En
+parallèle, un point hebdomadaire, en début de semaine, permettait de faire le bilan
+de mon avancement et de cadrer le travail à venir.
 
 La mise en place dans Wrike supposait aussi de respecter l'enchaînement des tâches
 — leurs prédécesseurs et leurs successeurs — pour conserver l'ordre logique du
@@ -49,8 +49,7 @@ projet. Le modèle rassemble d'ailleurs l'ensemble des activités du projet, por
 par les différentes fonctions, et pas seulement celles du chef de projet. Enfin,
 j'ai cherché à harmoniser le tout pour que chaque département retrouve clairement sa
 liste de tâches, sans que les activités se mélangent : certaines figuraient au
-mauvais endroit — par exemple une tâche classée en clinique mais réalisée par le
-réglementaire — et je les ai réattribuées au bon service, tout en restant fidèle à
+mauvais endroit, et je les ai réattribuées au bon service, tout en restant fidèle à
 la procédure.
 
 ## Le rendu
@@ -59,8 +58,8 @@ Le rendu final se compose de **deux modèles de projet distincts** dans Wrike : 
 pour les projets de type **médicament** et un pour les projets de type **dispositif
 médical**. Tous deux suivent la même logique d'organisation, par service.
 
-Concrètement, dans chaque modèle, un projet se présente ainsi : sous le nom du
-projet, une section par département ; à l'intérieur de chaque section, les tâches
+Dans le détail, chaque modèle présente un projet de la façon suivante : sous le nom
+du projet, une section par département ; à l'intérieur de chaque section, les tâches
 et leurs sous-tâches, organisées selon le fonctionnement propre au département. Les
 départements couverts sont le développement, les affaires cliniques, le
 réglementaire et le lancement.

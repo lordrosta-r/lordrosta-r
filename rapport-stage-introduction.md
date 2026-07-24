@@ -9,10 +9,8 @@ sous la responsabilité de Graziella Couleru.
 Le sujet de mon stage portait sur la création d'un modèle de projet destiné à
 rendre plus rapide l'utilisation de Wrike, l'outil de planification sur lequel
 l'équipe suit ses projets. Dans les faits, un modèle existait déjà et était
-utilisé, mais il était figé : il devait être mis à jour pour répondre à des
-exigences internes, et il ne reflétait plus assez précisément les activités
-réelles des projets. Mon travail a donc consisté à le reprendre et à le compléter
-pour qu'il corresponde mieux à ce que font réellement les équipes.
+utilisé, mais il était figé et ne correspondait plus assez aux pratiques réelles
+des équipes. Mon travail a consisté à le reprendre et à le compléter.
 
 Ce stage a été pour moi une première immersion dans l'industrie pharmaceutique.
 Il m'a permis de progresser en organisation, en travail d'équipe et en rigueur.

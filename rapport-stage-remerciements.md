@@ -1,7 +1,7 @@
 # Remerciements
 
-Je tiens à remercier l'ensemble de l'équipe Projets Innovation des Laboratoires
-Théa, qui m'a accueillie et accompagnée tout au long de ce stage. J'y ai
+Je tiens à remercier l'ensemble de l'équipe de la Direction Projet Innovation des
+Laboratoires Théa, qui m'a accueillie et accompagnée tout au long de ce stage. J'y ai
 découvert, dans de très bonnes conditions, la réalité du métier de chef de projet
 dans un environnement pharmaceutique exigeant.
 

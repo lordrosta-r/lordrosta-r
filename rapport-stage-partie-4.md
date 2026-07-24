@@ -32,11 +32,11 @@ des étapes suivantes.
 
 ## 4 — L'évaluation non-clinique
 
-Avant le moindre essai chez l'humain, le produit est étudié en dehors de tout
-contexte humain. On évalue son profil de façon globale : notamment sa toxicité et
-sa pharmacocinétique — la façon dont l'organisme l'absorbe, le distribue et
-l'élimine — ainsi que son efficacité et sa sécurité. Ces premières données sont
-indispensables avant de passer à l'humain.
+Avant le moindre essai chez l'homme, le produit est étudié in vitro et in vivo, en
+dehors de tout contexte humain. On évalue son profil de façon globale : notamment
+sa toxicité et sa pharmacocinétique — la façon dont l'organisme l'absorbe, le
+distribue et l'élimine — ainsi que son efficacité et sa sécurité. Ces premières
+données sont indispensables avant les essais chez l'homme.
 
 ## 5 — L'évaluation clinique
 
@@ -44,8 +44,8 @@ C'est l'étape des essais menés chez l'humain, de manière progressive et très
 encadrée. Elle se déroule classiquement en plusieurs phases (I, II et III), sur
 des groupes de plus en plus larges. Elles permettent de vérifier la sécurité du
 produit, de déterminer la posologie optimale et de confirmer son rapport
-bénéfice/risque. C'est une phase déterminante, longue et strictement encadrée sur
-les plans méthodologique et éthique.
+bénéfice/risque. Cette phase est déterminante et longue, soumise à des exigences
+méthodologiques et éthiques strictes.
 
 ## 6 — La soumission et l'évaluation réglementaire
 
