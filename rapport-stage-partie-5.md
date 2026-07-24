@@ -13,31 +13,37 @@ déjà les grandes étapes et les activités habituelles.
 ## La situation de départ
 
 Au début de mon stage, un modèle de projet existait déjà et était utilisé par
-l'équipe. Il était toutefois figé : il devait être mis à jour pour répondre à
-certaines exigences internes, et il ne reflétait plus assez précisément les
-activités réellement menées dans les projets. C'est ce modèle que j'ai été chargée
-de reprendre.
+l'équipe. Ce modèle suivait la procédure interne, mais il était figé : il devait
+être mis à jour pour répondre à certaines exigences internes, et il ne reflétait
+plus assez précisément les activités réellement menées dans les projets. C'est à
+partir de ce modèle que j'ai travaillé : je ne suis pas repartie de zéro.
 
 ## La démarche
 
-Mon travail a consisté à revoir ce modèle étape par étape. Je suis partie des
-grandes étapes d'un projet et je les ai traduites, dans Wrike, en tâches, en jalons
-et en échéances directement utilisables au quotidien. Le planning ne contient
+Je suis partie de l'ancien modèle et, surtout, des listes de tâches fournies par
+les différents services — principalement les affaires cliniques et le développement
+CMC, qui m'ont transmis le détail de leurs activités. Mon travail a d'abord
+consisté à comprendre ces tâches, puis à les retranscrire dans Wrike. Il a fallu
+me familiariser avec leur enchaînement, c'est-à-dire leurs prédécesseurs et leurs
+successeurs, pour respecter l'ordre logique du projet. Le planning ne contient
 d'ailleurs pas seulement les activités du chef de projet, mais l'ensemble des
-activités du projet, portées par les différentes fonctions (développement,
-réglementaire, qualité…).
+activités du projet, portées par les différentes fonctions.
 
-Pour que le modèle colle à la réalité, j'ai avancé par échanges successifs. J'ai
-discuté avec les chefs de projet, qui connaissent le mieux le déroulé des projets,
-et avec les référents des différentes fonctions, afin de comprendre comment leurs
-activités s'enchaînent — par exemple au sein du développement CMC. Leurs retours
-m'ont permis d'ajuster le modèle : mettre à jour les activités existantes et en
-ajouter de nouvelles qui n'étaient pas encore répertoriées.
+Au-delà de la simple transcription, j'ai cherché à harmoniser l'ensemble pour que
+chaque département retrouve clairement sa propre liste de tâches, sans que les
+activités des uns et des autres se mélangent. Certaines tâches figuraient en effet
+au mauvais endroit : par exemple, une tâche classée dans la partie clinique était
+en réalité réalisée par les affaires réglementaires. J'ai donc réattribué ces
+tâches au bon service, tout en restant fidèle à la procédure, comme dans l'ancien
+modèle.
 
 ## Le résultat
 
-Le modèle retravaillé est directement utilisable par l'équipe dans Wrike. Il vise
-à faire gagner du temps au moment de mettre en place un planning et à harmoniser la
-façon de suivre les projets au sein du service.
+Ce travail constitue une première base. En l'état, il ne permet pas encore de
+fournir un modèle définitif, prêt à faciliter le quotidien de tous les chefs de
+projet : c'est un point de départ, qui demande à être retravaillé. D'autres
+personnes de l'équipe, notamment avec ma tutrice, poursuivront sur cette base pour
+l'affiner, la faire mieux coller à la réalité des projets et, à terme, la déployer
+auprès de l'ensemble des chefs de projet.
 
 [Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 5]
