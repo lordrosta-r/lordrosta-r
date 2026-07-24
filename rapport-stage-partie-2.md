@@ -30,6 +30,13 @@ C'est justement cette dimension de pilotage global qui fait la différence entre
 diriger et simplement encadrer, et c'est ce que veut dire le mot « portfolio »
 dans son intitulé.
 
+C'est aussi lui qui représente le service dans certaines instances de
+l'entreprise. Grâce à sa vue globale sur tous les projets, il est le mieux placé
+pour en faire la synthèse : concrètement, c'est lui qui met en forme cette
+information — dans un document par exemple — et qui la fait remonter à la
+direction générale. Celle-ci dispose ainsi d'une vision claire de l'avancée des
+projets, par exemple sur l'ensemble d'une année.
+
 Il y a d'ailleurs une nuance à laquelle je tiens. Le service, lui, s'appelle la
 Direction Projet Innovation, et c'est à ce service que j'étais rattachée, comme
 le reste de l'équipe. Le « Portfolio », en revanche, ne concerne que le poste de
@@ -47,8 +54,18 @@ personnes interviennent pour toute l'équipe, de façon transversale.
 Sous la direction, deux responsables projet encadrent chacune un groupe de chefs
 de projet : Graziella Couleru et Julie Babon. Ce sont un peu les intermédiaires
 entre la direction et les chefs de projet. Elles suivent l'avancement des
-projets de leur groupe, accompagnent les chefs de projet au jour le jour et
-veillent à ce que tout se passe dans de bonnes conditions.
+projets de leur groupe et accompagnent les chefs de projet au jour le jour.
+
+Mais leur rôle ne s'arrête pas au suivi des projets : elles assurent aussi un
+véritable accompagnement humain. Ce sont elles qui définissent les attendus des
+chefs de projet sur l'année, qui les encadrent au quotidien et qui interviennent
+quand il faut, par exemple en cas de litige ou de tension au sein du service. En
+somme, elles veillent autant à la bonne marche des projets qu'aux bonnes
+conditions de travail de leur équipe.
+
+Un point important, enfin : ces responsables sont elles-mêmes chefs de projet.
+En parallèle de l'encadrement de leur groupe, elles pilotent leurs propres
+projets, exactement comme les autres chefs de projet de l'équipe.
 
 ## Les chefs de projet
 
