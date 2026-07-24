@@ -16,9 +16,9 @@ Fabrication et Contrôles), avec le réglementaire, la qualité, le clinique ou
 encore le marketing. Chaque équipe a ses contraintes, son calendrier, et parfois
 même sa propre façon de parler. Le chef de projet doit réussir à les faire
 travailler ensemble, à traduire ce dont l'un a besoin pour que l'autre le
-comprenne, et à garder une cohérence sur l'ensemble. C'est en discutant tous les
-jours avec les chefs de projet de l'équipe que je me suis rendu compte de ce que
-ça demandait concrètement.
+comprenne, et à garder une cohérence sur l'ensemble. C'est en échangeant chaque jour avec
+les chefs de projet de l'équipe que je me suis vraiment rendu compte de ce que
+ça demandait.
 
 Dans le détail, un chef de projet suit son projet du début jusqu'à la fin. Il en
 planifie les étapes, fixe les jalons et les livrables, organise les réunions et
@@ -38,8 +38,8 @@ métier. La rigueur, le fait d'être habitué à raisonner par étapes et à
 comprendre les contraintes techniques d'un projet, tout ça facilite les échanges
 avec les équipes et permet de mieux voir ce qui se joue vraiment dans leur
 travail. Ça ne fait pas du chef de projet un expert technique pour autant, mais
-ça en fait quelqu'un de crédible en face, capable de transformer un problème
-technique en décision concrète. C'est sûrement pour ça, d'ailleurs, que ce métier
+ça lui permet d'être crédible face aux équipes techniques, et de mieux comprendre
+ce qu'il y a à décider. C'est sûrement pour ça, d'ailleurs, que ce métier
 reste accessible à des gens qui viennent d'horizons scientifiques assez
 différents.
 
