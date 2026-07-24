@@ -6,7 +6,7 @@ entrent réellement dans le périmètre des projets suivis par la Direction Proj
 Innovation. Ce cycle est un processus long et très encadré, qui va de la première
 idée jusqu'à la mise sur le marché.
 
-![Figure 3 — Cycle de vie d'un produit de santé et périmètre des projets à la Direction Projet Innovation](frise-scope.png)
+![Figure 4 — Cycle de vie d'un produit de santé et périmètre des projets à la Direction Projet Innovation](frise-scope.png)
 
 ## 1 — L'idée de projet (pré-projet)
 

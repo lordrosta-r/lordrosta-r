@@ -8,7 +8,7 @@ une vision d'ensemble. Un « modèle de projet » y sert de base préremplie : p
 que de repartir de zéro à chaque nouveau projet, on part d'un modèle qui contient
 déjà les grandes étapes et les activités habituelles.
 
-[Insérer ici une capture d'écran de Wrike / d'un modèle de projet — Figure 4]
+[Insérer ici une capture d'écran de Wrike / d'un modèle de projet — Figure 5]
 
 ## La situation de départ
 
@@ -81,7 +81,7 @@ nombreuses discussions avec ma tutrice et les chefs de projet concernés, et
 d'autres personnes de l'équipe poursuivront dessus pour l'affiner et, à terme, le
 déployer auprès de l'ensemble des chefs de projet.
 
-[Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 5]
+[Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 6]
 
 ## Difficultés et apprentissages
 
