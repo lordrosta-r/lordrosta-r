@@ -62,12 +62,13 @@ qui veille à sa sécurité et à son bon usage dans la durée.
 
 ## Le périmètre des projets à la Direction Projet Innovation
 
-Tous les projets ne couvrent pas l'intégralité de ce cycle. La phase d'idée, très
-en amont, n'est pas prise en charge par la Direction Projet Innovation. Le projet
-entre dans son périmètre à l'initiation : c'est à partir de là que certaines
-tâches sont confiées aux chefs de projet, sachant qu'une partie des éléments dont
-ils ont besoin provient de ces phases amont. À l'autre extrémité, le suivi
-s'arrête à la première mise sur le marché : les modifications ultérieures du
-produit ne sont pas gérées dans ce cadre. Le périmètre des projets s'étend donc,
-pour l'essentiel, de l'initiation à la première commercialisation, comme le met en
-évidence la figure ci-dessus.
+Tous les projets ne couvrent pas l'intégralité de ce cycle. La phase d'idée, tout
+en amont, n'est pas gérée par la Direction Projet Innovation : le projet n'entre
+dans le périmètre de l'équipe qu'au moment de l'initiation. C'est à cette étape
+que les chefs de projet reçoivent leurs premières tâches, et une partie de ces
+tâches découle directement des phases amont, même si l'équipe ne pilote pas ces
+phases elle-même. À l'autre extrémité du cycle, le suivi s'arrête à la première
+mise sur le marché : les modifications apportées au produit par la suite ne sont
+pas gérées dans ce cadre. Le périmètre des projets s'étend donc, pour l'essentiel,
+de l'initiation à la première commercialisation, comme le montre la figure
+ci-dessus.
