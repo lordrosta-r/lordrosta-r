@@ -36,9 +36,12 @@ des affaires cliniques. Une fois ces tâches en place, je suis revenue vers les 
 départements pour relier les tâches entre elles : comprendre à quoi les anciennes
 tâches correspondaient dans leurs nouvelles listes, voir comment ils regroupaient
 certaines activités pour gagner en efficacité, et repérer les doublons. Ces
-échanges ne se faisaient pas toujours en tête-à-tête : j'y participais parfois avec
-d'autres membres de l'équipe, lors de points avec le référent du département
-concerné.
+échanges prenaient surtout la forme de réunions. Avec le département CMC, par
+exemple, j'ai eu deux points en tête-à-tête ; d'autres se faisaient en équipe, lors
+de points avec le référent du département concerné. Des échanges plus informels
+m'ont également aidée à orienter l'organisation dans Wrike. En parallèle, un point
+de suivi en début de chaque semaine permettait de faire le bilan de mon avancement
+et de cadrer le travail à venir.
 
 La mise en place dans Wrike supposait aussi de respecter l'enchaînement des tâches
 — leurs prédécesseurs et leurs successeurs — pour conserver l'ordre logique du
