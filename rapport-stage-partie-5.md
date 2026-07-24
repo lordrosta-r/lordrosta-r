@@ -69,11 +69,13 @@ gestion de projet, au développement, aux affaires cliniques et au lancement
 (marketing).
 
 À ce stade, la partie clinique constitue déjà une base solide, qui reflète bien
-l'activité du service. Les parties développement et lancement offrent, elles, une
-première structure encore à affiner — par exemple, des doublons de tâches restent à
-trancher côté développement. Ce travail constitue donc une première base, et non un
-modèle définitif : d'autres personnes de l'équipe, notamment avec ma tutrice,
-poursuivront dessus pour l'affiner et, à terme, le déployer auprès de l'ensemble des
-chefs de projet.
+l'activité du service. Les modèles restent toutefois incomplets : certaines
+liaisons entre tâches — c'est-à-dire l'identification des prédécesseurs et des
+successeurs — sont encore à établir, et de nombreux doublons restent à trancher, ce
+qui rend la partie développement particulièrement complexe. Ce travail constitue
+donc une première base, et non un modèle définitif : il a fait l'objet de
+nombreuses discussions avec ma tutrice et les chefs de projet concernés, et
+d'autres personnes de l'équipe poursuivront dessus pour l'affiner et, à terme, le
+déployer auprès de l'ensemble des chefs de projet.
 
 [Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 5]
