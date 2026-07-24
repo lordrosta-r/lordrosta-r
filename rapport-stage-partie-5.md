@@ -30,24 +30,25 @@ dispositif médical, arrivée plus tard, environ deux semaines avant la fin du s
 Cette analyse m'a permis de dégager les grandes lignes que les modèles devaient
 suivre.
 
-Je suis alors entrée dans le concret, à partir de l'ancien modèle et des listes de
-tâches fournies par les services, principalement le développement et les affaires
-cliniques. J'ai particulièrement échangé avec le département développement : il m'a
-transmis ses listes de tâches, signalé ce qui manquait ou ce qui changeait, et nous
-avons regardé ensemble comment relier les tâches entre elles et traiter les
-doublons, afin de coller à ce qu'il attend réellement. Ces échanges ne se faisaient
-pas toujours en tête-à-tête : j'y participais parfois avec d'autres membres de
-l'équipe, lors de points avec le référent du département.
+Je suis alors entrée dans le concret. J'ai d'abord récupéré la liste des tâches du
+développement et je l'ai retranscrite dans Wrike, puis j'ai fait de même avec celle
+des affaires cliniques. Une fois ces tâches en place, je suis revenue vers les deux
+départements pour relier les tâches entre elles : comprendre à quoi les anciennes
+tâches correspondaient dans leurs nouvelles listes, voir comment ils regroupaient
+certaines activités pour gagner en efficacité, et repérer les doublons. Ces
+échanges ne se faisaient pas toujours en tête-à-tête : j'y participais parfois avec
+d'autres membres de l'équipe, lors de points avec le référent du département
+concerné.
 
-La transcription dans Wrike supposait de comprendre l'enchaînement des tâches —
-leurs prédécesseurs et leurs successeurs — pour respecter l'ordre logique du projet.
-Le modèle rassemble d'ailleurs l'ensemble des activités du projet, portées par les
-différentes fonctions, et pas seulement celles du chef de projet. Au-delà de cette
-transcription, j'ai cherché à harmoniser l'ensemble pour que chaque département
-retrouve clairement sa liste de tâches, sans que les activités se mélangent :
-certaines figuraient au mauvais endroit — par exemple une tâche classée en clinique
-mais réalisée par le réglementaire — et je les ai réattribuées au bon service, tout
-en restant fidèle à la procédure.
+La mise en place dans Wrike supposait aussi de respecter l'enchaînement des tâches
+— leurs prédécesseurs et leurs successeurs — pour conserver l'ordre logique du
+projet. Le modèle rassemble d'ailleurs l'ensemble des activités du projet, portées
+par les différentes fonctions, et pas seulement celles du chef de projet. Enfin,
+j'ai cherché à harmoniser le tout pour que chaque département retrouve clairement sa
+liste de tâches, sans que les activités se mélangent : certaines figuraient au
+mauvais endroit — par exemple une tâche classée en clinique mais réalisée par le
+réglementaire — et je les ai réattribuées au bon service, tout en restant fidèle à
+la procédure.
 
 ## Le rendu
 
