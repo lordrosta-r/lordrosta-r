@@ -1,6 +1,6 @@
 # I — Présentation de l'entreprise et de son environnement
 
-Fondés en 1993 et basés à Clermont-Ferrand, les Laboratoires Théa sont le premier
+Fondés en 1994 et basés à Clermont-Ferrand, les Laboratoires Théa sont le premier
 laboratoire pharmaceutique indépendant en Europe spécialisé en ophtalmologie. L'entreprise développe et commercialise une
 gamme large de produits dédiés à la santé oculaire : des médicaments, des
 dispositifs médicaux, des produits cosmétiques et des compléments alimentaires.
@@ -17,8 +17,10 @@ ne concerne d'ailleurs pas que les médicaments : elle s'applique également aux
 dispositifs médicaux et aux produits cosmétiques.
 
 L'entreprise évolue dans un environnement résolument international, avec une
-présence dans de nombreux pays. Cette dimension a une incidence directe sur le
-travail des équipes projets, car les exigences réglementaires varient sensiblement
-selon les marchés visés.
+présence dans de nombreux pays à travers plusieurs filiales. Cette dimension a une
+incidence directe sur le travail des équipes projets, car les exigences
+réglementaires varient sensiblement selon les marchés visés.
 
 [Insérer ici la carte des pays de commercialisation des produits Théa — Figure 1]
+
+*Source des éléments de présentation : site officiel des Laboratoires Théa (thea.com).*
