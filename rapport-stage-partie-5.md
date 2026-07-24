@@ -39,22 +39,28 @@ modèle.
 
 ## Le rendu
 
-Le modèle retravaillé est organisé par service, tout en suivant l'ordre logique du
-projet (le développement précède par exemple l'évaluation non-clinique, puis
-viennent les affaires cliniques). Dans Wrike, chaque projet se présente ainsi :
-sous le nom du projet, j'ai créé une section par département ; à l'intérieur de
-chaque section, on trouve les tâches et leurs sous-tâches, organisées selon le
-fonctionnement propre au département.
+Le rendu final se compose de **deux modèles de projet distincts** dans Wrike : un
+pour les projets de type **médicament** et un pour les projets de type **dispositif
+médical**. Tous deux suivent la même logique d'organisation, par service.
 
-À ce stade, le modèle couvre quatre départements : le développement, les affaires
-cliniques, le réglementaire et le lancement. La partie clinique constitue déjà une
-base solide, qui reflète bien l'activité du service. Les parties développement et
-lancement offrent, elles, une première structure encore à affiner — par exemple,
-des doublons de tâches restent à trancher côté développement, et la partie
-lancement demande à être retravaillée pour mieux correspondre au périmètre réel.
+Concrètement, dans chaque modèle, un projet se présente ainsi : sous le nom du
+projet, une section par département ; à l'intérieur de chaque section, les tâches
+et leurs sous-tâches, organisées selon le fonctionnement propre au département. Les
+départements couverts sont le développement, les affaires cliniques, le
+réglementaire et le lancement.
 
-Ce travail constitue donc une première base, et non un modèle définitif. D'autres
-personnes de l'équipe, notamment avec ma tutrice, poursuivront dessus pour
-l'affiner et, à terme, le déployer auprès de l'ensemble des chefs de projet.
+J'ai repris la majeure partie de l'existant et y ai intégré les listes de tâches
+mises à jour, en particulier celles des affaires cliniques et du développement.
+Dans le modèle médicament, par exemple, j'ai ajouté les nouvelles tâches liées à la
+gestion de projet, au développement, aux affaires cliniques et au lancement
+(marketing).
+
+À ce stade, la partie clinique constitue déjà une base solide, qui reflète bien
+l'activité du service. Les parties développement et lancement offrent, elles, une
+première structure encore à affiner — par exemple, des doublons de tâches restent à
+trancher côté développement. Ce travail constitue donc une première base, et non un
+modèle définitif : d'autres personnes de l'équipe, notamment avec ma tutrice,
+poursuivront dessus pour l'affiner et, à terme, le déployer auprès de l'ensemble des
+chefs de projet.
 
 [Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 5]
