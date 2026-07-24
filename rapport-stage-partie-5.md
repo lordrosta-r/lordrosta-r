@@ -37,13 +37,24 @@ en réalité réalisée par les affaires réglementaires. J'ai donc réattribué
 tâches au bon service, tout en restant fidèle à la procédure, comme dans l'ancien
 modèle.
 
-## Le résultat
+## Le rendu
 
-Ce travail constitue une première base. En l'état, il ne permet pas encore de
-fournir un modèle définitif, prêt à faciliter le quotidien de tous les chefs de
-projet : c'est un point de départ, qui demande à être retravaillé. D'autres
-personnes de l'équipe, notamment avec ma tutrice, poursuivront sur cette base pour
-l'affiner, la faire mieux coller à la réalité des projets et, à terme, la déployer
-auprès de l'ensemble des chefs de projet.
+Le modèle retravaillé est organisé par service, tout en suivant l'ordre logique du
+projet (le développement précède par exemple l'évaluation non-clinique, puis
+viennent les affaires cliniques). Dans Wrike, chaque projet se présente ainsi :
+sous le nom du projet, j'ai créé une section par département ; à l'intérieur de
+chaque section, on trouve les tâches et leurs sous-tâches, organisées selon le
+fonctionnement propre au département.
+
+À ce stade, le modèle couvre quatre départements : le développement, les affaires
+cliniques, le réglementaire et le lancement. La partie clinique constitue déjà une
+base solide, qui reflète bien l'activité du service. Les parties développement et
+lancement offrent, elles, une première structure encore à affiner — par exemple,
+des doublons de tâches restent à trancher côté développement, et la partie
+lancement demande à être retravaillée pour mieux correspondre au périmètre réel.
+
+Ce travail constitue donc une première base, et non un modèle définitif. D'autres
+personnes de l'équipe, notamment avec ma tutrice, poursuivront dessus pour
+l'affiner et, à terme, le déployer auprès de l'ensemble des chefs de projet.
 
 [Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 5]
