@@ -79,3 +79,22 @@ d'autres personnes de l'équipe poursuivront dessus pour l'affiner et, à terme,
 déployer auprès de l'ensemble des chefs de projet.
 
 [Insérer ici un échantillon du modèle réalisé (capture Wrike) — Figure 5]
+
+## Difficultés et apprentissages
+
+La difficulté la plus marquante a été de repérer les tâches mal attribuées : une
+tâche rattachée à la partie clinique appartenait parfois, en réalité, au
+réglementaire — et inversement. Les doublons ont aussi été compliqués à gérer, car
+il fallait comprendre que plusieurs tâches de l'ancien modèle étaient désormais
+regroupées en une seule dans les propositions transmises par les équipes. Enfin, la
+partie prédécesseurs et successeurs a été la plus délicate : je n'arrivais pas
+toujours à relier les tâches, faute de savoir ce qui venait avant et ce qui venait
+après. Il me manquait la vision d'un projet dans le temps.
+
+Sur le plan des apprentissages, j'ai surtout gagné en compréhension d'un projet
+pharmaceutique : même sans travailler directement sur un projet, j'ai mieux saisi la
+logique des enchaînements et des délais. Ce travail m'a aussi beaucoup appris en
+rigueur. Renseigner les tâches dans Wrike demande une grande concentration : une
+erreur sur les prédécesseurs ou les successeurs peut vite fausser l'ensemble, et
+tout reprendre depuis le début est long et fastidieux. Il faut donc rester attentif
+à chaque étape.
