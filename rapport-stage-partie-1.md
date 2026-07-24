@@ -21,6 +21,6 @@ présence dans de nombreux pays à travers plusieurs filiales. Cette dimension a
 incidence directe sur le travail des équipes projets, car les exigences
 réglementaires varient sensiblement selon les marchés visés.
 
-[Insérer ici la carte des pays de commercialisation des produits Théa — Figure 1]
+[Insérer ici la carte officielle de présence internationale des Laboratoires Théa (disponible sur thea.com) — Figure 1]
 
 *Source des éléments de présentation : site officiel des Laboratoires Théa (thea.com).*
