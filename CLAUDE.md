@@ -54,6 +54,14 @@ temps de la formaliser. Si une offre touche à la gestion de projet,
 l'industrie pharma, la qualité ou l'innovation : **lui demander explicitement**
 si elle a des détails supplémentaires sur ce stage avant de rédiger.
 
+### Carrefour — Vendeuse polyvalente — septembre 2025 à mai 2026
+Temps partiel, environ un an.
+- Mise en rayon et réassort des produits.
+- Encaissement et tenue de caisse.
+- Gestion des stocks et de la réserve.
+- Expérience de référence pour toute offre de vente/commerce/grande distribution
+  (bien plus directement transférable que KFC ou Banguimall pour ce type de poste).
+
 ### Stage d'observation — Institut Pasteur de Bangui, RCA — été 2022
 Laboratoire d'hématologie.
 - Environnement réglementé : traçabilité, protocoles qualité, normes
@@ -124,6 +132,9 @@ n'a pas eu le temps de tout détailler à l'avance. En conséquence :
 - **Soft skills** : rigueur, pragmatisme, force de proposition, dynamisme,
   bon relationnel, autonomie, curiosité/veille, gestion multi-interlocuteurs
 - **Certifications** : PIX Développement Durable
+- **Permis B** : en cours de préparation (statut au 2026-08-06, à revérifier
+  périodiquement — demander à Luisa si elle l'a obtenu entre-temps avant de le
+  présenter comme acquis ou comme manquant sur un CV/LM).
 
 ## Style d'écriture à respecter (analysé depuis les CV/LM existants)
 
@@ -158,6 +169,16 @@ n'a pas eu le temps de tout détailler à l'avance. En conséquence :
 - Ton : sincère, rigoureux, jamais ampoulé, phrases courtes à moyennes,
   toujours reliées au concret plutôt qu'à des généralités RH.
 
+### Règle de style additionnelle (confirmée par Luisa, 2026-08-06)
+**Ne jamais utiliser de tirets cadratins/demi-cadratins ("—", "–") dans le
+texte des CV et LM généré**, y compris dans la mise en forme (ex : séparateur
+entre un intitulé de poste et une date). Utiliser à la place une virgule, un
+deux-points, des parenthèses, ou reformuler la phrase. Objectif : éviter les
+tics d'écriture trop reconnaissables comme "générés par IA" et sonner plus
+naturel/humain. Éviter aussi les tournures too neat du type "ce n'est pas X,
+c'est Y" répétées, et varier la longueur des phrases plutôt que d'enchaîner
+des constructions trop symétriques.
+
 ## Processus de génération pour chaque nouvelle offre
 
 Règle confirmée par Luisa (2026-08-04) : **avant de générer**, toujours poser
@@ -175,6 +196,24 @@ Règle confirmée par Luisa (2026-08-04) : **avant de générer**, toujours pose
 Ensuite seulement : générer le CV et la LM, adaptés à 100% à l'offre, en
 réutilisant le profil et le style ci-dessus — sans jamais inventer
 d'expérience, de compétence ou de résultat chiffré non confirmé par Luisa.
+
+## Jobs étudiants à Bordeaux (en parallèle du parcours alternance)
+
+Depuis août 2026, Luisa candidate aussi à des jobs étudiants à temps partiel
+dans la région bordelaise (elle s'installe à Bordeaux pour son Master dès la
+rentrée 2026), pour financer son installation. **Ces candidatures sont
+volontairement indépendantes du narratif alternance/qualité pharma** : pas
+d'anecdote Institut Pasteur, pas de mise en avant du projet Assurance
+Qualité. Le CV/LM met en avant à la place : Carrefour, KFC, Banguimall, le
+sport pratiqué, la disponibilité, le sérieux et l'envie d'apprendre vite.
+Adresse affichée sur ces candidatures : Bordeaux (33000), plutôt que
+l'adresse de Buc.
+
+Candidatures envoyées sur cette piste :
+- Basic-Fit, club de Lormont, agent d'accueil polyvalent (H/F/N), CDD 20h/semaine
+  (4 août 2026).
+- Donuts and Donuts, boutique CC Rive d'Arcins (Bègles), vendeuse polyvalente,
+  10h/semaine (6 août 2026).
 
 ## Historique — pistes antérieures (référence, non actives)
 
