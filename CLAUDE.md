@@ -139,13 +139,15 @@ n'a pas eu le temps de tout détailler à l'avance. En conséquence :
 - **Langues** : Français (natif), Sango (natif), Anglais (B1/B2, écrit et oral)
 - **Outils** : Pack Office (Excel, Word, PowerPoint), Outlook, curiosité pour
   les outils numériques
-- **Scientifique/technique** : chimie analytique (chromatographie,
+- **Scientifique/technique** : chimie analytique (chromatographie dont HPLC,
   spectrophotométrie, analyse thermique, dosages), chimie des matériaux
   (polymères, formulation), analyse et interprétation de données, études de
   stabilité physico-chimique
 - **Qualité/pharma** : environnement BPF, documentation et système qualité,
   rédaction de protocoles et rapports, notions de suivi des déviations,
-  coordination avec sous-traitants, suivi d'indicateurs et de plans d'actions
+  coordination avec sous-traitants, suivi d'indicateurs et de plans d'actions,
+  notions de cycle de vie du médicament et de phases d'essais cliniques
+  (confirmé par Luisa le 2026-08-13, vu en cours/stage)
 - **Packaging/éco-conception** (piste non retenue mais réutilisable) :
   analyse du cycle de vie, éco-conception, recyclabilité, réglementation
   empreinte environnementale
@@ -284,6 +286,20 @@ placeholder sans qu'elle le redemande.
 Longueur cible pour ce type de lettre : 300 à 450 mots, structure en 5
 blocs (accroche, profil, valeur ajoutée, motivation, conclusion), toujours
 sans tiret ("—"/"–") et sans clichés du type "passionnée par les challenges".
+
+## CV alternance ciblé — Unither Pharmaceuticals
+
+Créé le 2026-08-13. CDMO pharmaceutique visé pour l'alternance sur la piste
+Assurance Qualité (2026-2028). Titre retenu : "Alternance assurance qualité,
+industrie pharmaceutique" (Luisa ne connaissait pas l'intitulé exact du
+poste ni n'avait le texte de l'offre au moment de la création : à ajuster
+si elle transmet l'offre réelle plus tard).
+
+Sélection resserrée sur les expériences les plus pertinentes pour un poste
+qualité en pharma : Théa, Institut Pasteur, BNP Paribas, KFC. Carrefour,
+Banguimall, Cabon et Chargée de promotion terrain volontairement écartés
+de ce CV (moins pertinents pour ce secteur), mais restent disponibles pour
+d'autres candidatures.
 
 ## Historique — pistes antérieures (référence, non actives)
 
