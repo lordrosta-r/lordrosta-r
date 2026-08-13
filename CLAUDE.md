@@ -274,10 +274,12 @@ la polyvalence (BNP Paribas, KFC, Banguimall, Cabon, Théa) et la disponibilité
 compatible avec les études (temps partiel dès maintenant, temps plein en
 juillet et août).
 
-Comme aucune agence n'est nommée, l'en-tête destinataire utilise des
-espaces réservés `[Nom de l'agence d'intérim]` / `[Adresse de l'agence]` à
-remplacer par Luisa avant chaque envoi. Ne jamais inventer de nom d'agence
-ou de recruteur à sa place.
+Luisa a explicitement demandé (2026-08-13) de ne **pas** inclure de bloc
+destinataire (ni nom d'agence, ni adresse), y compris sous forme
+d'espace réservé du type `[Nom de l'agence]` : elle gère ça elle-même à
+l'envoi. La lettre ne contient donc que l'en-tête expéditeur (elle-même),
+la date, l'objet, puis le corps. Ne jamais réintroduire de bloc destinataire
+placeholder sans qu'elle le redemande.
 
 Longueur cible pour ce type de lettre : 300 à 450 mots, structure en 5
 blocs (accroche, profil, valeur ajoutée, motivation, conclusion), toujours
