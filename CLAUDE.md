@@ -263,6 +263,26 @@ Contraintes de style spécifiques à ce document, différentes du style
   expériences les plus anciennes/moins directement liées (une ligne, sans
   puces) plutôt que de réduire la police à un niveau illisible.
 
+Ce CV n'affiche pas la certification PIX (voir règle dans Compétences).
+
+## LM spontanée, missions d'intérim
+
+Créée le 2026-08-13, en pendant du CV généraliste ATS ci-dessus. Lettre de
+motivation générique adaptée aux **agences d'intérim** plutôt qu'à une
+entreprise précise (candidature spontanée, pas d'offre visée). Met en avant
+la polyvalence (BNP Paribas, KFC, Banguimall, Cabon, Théa) et la disponibilité
+compatible avec les études (temps partiel dès maintenant, temps plein en
+juillet et août).
+
+Comme aucune agence n'est nommée, l'en-tête destinataire utilise des
+espaces réservés `[Nom de l'agence d'intérim]` / `[Adresse de l'agence]` à
+remplacer par Luisa avant chaque envoi. Ne jamais inventer de nom d'agence
+ou de recruteur à sa place.
+
+Longueur cible pour ce type de lettre : 300 à 450 mots, structure en 5
+blocs (accroche, profil, valeur ajoutée, motivation, conclusion), toujours
+sans tiret ("—"/"–") et sans clichés du type "passionnée par les challenges".
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
