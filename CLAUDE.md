@@ -160,6 +160,12 @@ n'a pas eu le temps de tout détailler à l'avance. En conséquence :
 - **Permis B** : en cours de préparation (statut au 2026-08-06, à revérifier
   périodiquement — demander à Luisa si elle l'a obtenu entre-temps avant de le
   présenter comme acquis ou comme manquant sur un CV/LM).
+- **"Gestion de projet" en tant que catégorie de compétence** : à ne plus
+  faire apparaître sur les CV (demandé par Luisa le 2026-08-14, retiré des
+  CV Unither et Ceva). Les éléments qui la composaient (coordination
+  multi-acteurs, planification, respect des délais, suivi documentaire)
+  restent utilisables ailleurs (expérience Théa, engagement représentante
+  étudiante) mais pas comme rubrique "Gestion de projet" indépendante.
 
 ## Style d'écriture à respecter (analysé depuis les CV/LM existants)
 
