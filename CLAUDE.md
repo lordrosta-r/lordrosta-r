@@ -351,6 +351,21 @@ retirés du brouillon de Luisa (même logique anti flatterie générique),
 remplacés par un ancrage sur les missions concrètes de l'offre. Adresse
 destinataire : "Site de Libourne (33)", sans numéro de rue inventé.
 
+## CV candidature spontanée — Sanofi Winthrop Industrie
+
+Créé le 2026-08-14. Troisième piste alternance qualité pharma, cette fois en
+candidature spontanée (pas d'offre précise) et sur un périmètre plus large :
+"qualité, R&D ou production" plutôt qu'assurance qualité uniquement. Titre
+retenu : "Alternance qualité / R&D, industrie pharmaceutique".
+
+Même sélection resserrée que Unither/Ceva (Théa, Institut Pasteur, BNP
+Paribas, KFC) et mêmes règles déjà actées : pas de ligne "Gestion de
+projet" dans les compétences, "leader mondial de la santé" et "acteur
+majeur" retirés du profil (même logique anti flatterie générique que pour
+les deux précédents), HPLC gardé (compétence confirmée). Compétences
+structurées en trois blocs : analyses et laboratoire, qualité et
+réglementaire, rédaction et analyse.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
