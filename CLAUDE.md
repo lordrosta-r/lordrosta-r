@@ -41,18 +41,29 @@ CV/LM prêt à l'envoi.
 ## Expériences professionnelles
 
 ### Stage — Laboratoires Théa (ophtalmologie), Clermont-Ferrand — juin-juillet 2026
-Stagiaire Project Management, Direction Projet Innovation.
-- Laboratoire pharmaceutique international soumis aux BPF (bonnes pratiques
-  de fabrication).
-- Contribution à la documentation technique, découverte du système qualité
-  et des déviations.
-- Coordination avec plusieurs équipes internes, compréhension du travail
-  avec les sous-traitants.
+Stagiaire en gestion de projet, Direction Projet Innovation. Détail confirmé
+par Luisa le 2026-08-13.
+- Suivi et coordination de projets portant sur des médicaments et des
+  dispositifs médicaux.
+- Planification et suivi de la documentation en environnement international,
+  respect des délais.
+- Rédaction de documents techniques et vérification de sources.
+- Coordination avec les équipes développement, qualité et affaires
+  réglementaires.
 
-⚠️ Détail limité pour l'instant — Luisa a plus de matière mais n'a pas eu le
-temps de la formaliser. Si une offre touche à la gestion de projet,
-l'industrie pharma, la qualité ou l'innovation : **lui demander explicitement**
-si elle a des détails supplémentaires sur ce stage avant de rédiger.
+### Chargée de promotion terrain — Mission terrain, Clermont-Ferrand — février 2026
+- Contact direct avec le public en milieu urbain, diffusion de supports de
+  communication.
+- Représentation d'une marque auprès du grand public, autonomie.
+
+### Auxiliaire de vacances, accueil et relation client — BNP Paribas, Chamalières (63) — juillet-août 2025
+- Accueil physique et téléphonique de la clientèle en agence bancaire.
+- Gestion des rendez-vous, assistance aux conseillers dans leurs tâches
+  quotidiennes.
+- Traitement de documents administratifs (classement, saisie, archivage)
+  dans le respect de la confidentialité.
+- Bonne expérience de référence pour toute offre en banque, assurance ou
+  accueil administratif.
 
 ### Carrefour — Vendeuse polyvalente — septembre 2025 à mai 2026
 Temps partiel, environ un an.
@@ -64,30 +75,40 @@ Temps partiel, environ un an.
 
 ### Stage d'observation — Institut Pasteur de Bangui, RCA — été 2022
 Laboratoire d'hématologie.
-- Environnement réglementé : traçabilité, protocoles qualité, normes
-  strictes (Réseau Pasteur / OMS).
+- Application de protocoles standardisés, respect des consignes de sécurité
+  (normes OMS), traçabilité rigoureuse des données et des analyses en
+  environnement institutionnel.
 - C'est **l'anecdote fondatrice** de ses lettres de motivation existantes
   (voir section Style) : elle y a vu des contenants inadaptés ralentir un
-  diagnostic médical — point de départ de son intérêt pour le cycle de vie
+  diagnostic médical, point de départ de son intérêt pour le cycle de vie
   des emballages ET pour la rigueur du monde pharmaceutique.
 - Fonctionne aussi bien pour un narratif "assurance qualité pharma"
   (rigueur, traçabilité, BPF/OMS) que "packaging/ACV" (impact concret d'un
   contenant).
 
-### KFC France — Employée polyvalente — 2024
-Mentionnée en une seule ligne dans les CV existants, aucun détail.
+### KFC France — Employée polyvalente, restauration — mai-août 2024 (CDD 4 mois)
+Détail confirmé par Luisa le 2026-08-13 (version complète, valide toute
+mention antérieure limitée au nettoyage/entretien uniquement).
+- Travail en cuisine : préparation des commandes, respect strict des normes
+  HACCP et d'hygiène.
+- Travail en caisse : encaissement espèces et carte, gestion du fonds,
+  ouverture et fermeture.
+- Accueil des clients, gestion des files d'attente en période de forte
+  affluence, traitement des réclamations avec courtoisie.
+- Travail en équipe dans un environnement rapide, exigeant et sous pression.
 
-⚠️ **Ne pas inventer de missions.** Si une offre touche à la restauration
-rapide, au service client, à la polyvalence terrain, au travail en équipe
-sous rythme soutenu, à la gestion de flux, etc. : **demander à Luisa de
-détailler** cette expérience avant de l'utiliser.
+### BANGUIMALL — Assistante événementielle, Bangui (RCA) — juin-juillet 2023
+Détail confirmé par Luisa le 2026-08-13 : mission **essentiellement
+logistique**, pas de volet accueil du public/gestion des inscriptions
+(une version plus étoffée côté accueil/relation client a été proposée puis
+explicitement écartée par Luisa, ne pas la réutiliser).
+- Organisation logistique des événements : installation, coordination avec
+  les prestataires.
+- Gestion des plannings et anticipation des besoins.
 
-### BANGUIMALL — Assistante événementielle — 2023
-Mentionnée en une seule ligne, aucun détail.
-
-⚠️ **Ne pas inventer de missions.** Si une offre touche à l'événementiel, à
-l'organisation, à la relation client, à la communication : **demander à
-Luisa de détailler** avant de l'utiliser.
+### Vendeuse conseil — Cabon, Bangui (RCA) — juin-juillet 2021
+- Accueil et accompagnement des clients.
+- Encaissement, réassort et mise en valeur des produits.
 
 ### Représentante étudiante LAS2 & N3 — UFR Chimie, UCA Clermont-Ferrand — 2024 à aujourd'hui
 - Interface entre 80+ étudiants et l'équipe pédagogique : force de
@@ -215,6 +236,31 @@ Candidatures envoyées sur cette piste :
 - Donuts and Donuts, boutique CC Rive d'Arcins (Bègles), vendeuse polyvalente,
   10h/semaine (6 août 2026).
 
+## CV généraliste ATS (candidature spontanée / agences d'intérim)
+
+Créé le 2026-08-13, à la demande explicite de Luisa. **Document à part**,
+distinct des CV/LM ciblés par offre décrits plus haut : il ne remplace pas
+l'approche "un CV sur mesure par offre", il sert pour les candidatures
+spontanées et les agences d'intérim, sur les secteurs accueil, restauration,
+commerce, banque et événementiel.
+
+Contraintes de style spécifiques à ce document, différentes du style
+"deux colonnes colorées avec photo" utilisé pour les CV ciblés par offre :
+- Une seule page, une seule colonne, aucun tableau de mise en page, aucune
+  icône, aucun emoji, aucune photo, aucune jauge/barre de compétence.
+- Design sobre : une seule couleur d'accent discrète pour les titres de
+  rubrique (gris foncé/bleu nuit), pas de bandeau coloré.
+- Intitulés de rubriques standards ATS : Profil, Expérience professionnelle,
+  Formation, Compétences, Langues, Certifications, Engagements, Centres
+  d'intérêt.
+- Même règle sur les tirets que ci-dessus (aucun "—"/"–"), et éviter les
+  formulations génériques ("motivée et dynamique", "esprit d'équipe",
+  "passionnée par les challenges") sauf si concrètement justifiées par une
+  expérience réelle.
+- Une page ne suffit pas toujours pour toutes les expériences : condenser les
+  expériences les plus anciennes/moins directement liées (une ligne, sans
+  puces) plutôt que de réduire la police à un niveau illisible.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
@@ -228,5 +274,8 @@ Candidatures envoyées sur cette piste :
   Qualité — **modèle de référence pour le ton à reproduire désormais**.
 
 ---
-*Dernière mise à jour : 2026-08-04, à partir de 3 CV et 2 lettres de
-motivation fournis par Luisa.*
+*Dernière mise à jour : 2026-08-13. Historique : création initiale le
+2026-08-04 à partir de 3 CV et 2 lettres de motivation fournis par Luisa,
+enrichie depuis avec Carrefour, KFC (version complète), Banguimall
+(clarifiée), Chargée de promotion terrain, BNP Paribas, Cabon, et la création
+du CV généraliste ATS.*
