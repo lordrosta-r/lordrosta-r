@@ -120,7 +120,6 @@ explicitement écartée par Luisa, ne pas la réutiliser).
 - Certification Développement Durable.
 - Sensibilisation développement durable auprès de 300+ élèves, réduction
   des déchets, actions environnementales.
-- Certification PIX Développement Durable.
 
 ## Règle importante : les CV ne sont pas exhaustifs
 
@@ -152,7 +151,10 @@ n'a pas eu le temps de tout détailler à l'avance. En conséquence :
   empreinte environnementale
 - **Soft skills** : rigueur, pragmatisme, force de proposition, dynamisme,
   bon relationnel, autonomie, curiosité/veille, gestion multi-interlocuteurs
-- **Certifications** : PIX Développement Durable
+- **Certifications** : aucune à afficher. Luisa a la certification PIX
+  Développement Durable mais a demandé explicitement (2026-08-13) qu'elle
+  **n'apparaisse plus sur aucun CV**, ni maintenant ni à l'avenir. Ne pas la
+  réintroduire sans qu'elle le redemande.
 - **Permis B** : en cours de préparation (statut au 2026-08-06, à revérifier
   périodiquement — demander à Luisa si elle l'a obtenu entre-temps avant de le
   présenter comme acquis ou comme manquant sur un CV/LM).
