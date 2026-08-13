@@ -313,6 +313,28 @@ formulations génériques qu'elle demande d'éviter) au profit d'une
 description factuelle du site. Adresse destinataire limitée à "Site du
 Haillan (33)", sans numéro de rue inventé.
 
+## CV alternance ciblé — Ceva Santé Animale
+
+Créé le 2026-08-14. Deuxième piste alternance Assurance Qualité, cette fois
+en santé animale plutôt qu'en pharma humaine (Unither). Titre retenu :
+"Alternance assurance qualité, secteur santé animale". Comme pour Unither,
+aucune offre précise ni intitulé exact de poste transmis par Luisa au
+moment de la création.
+
+Même sélection resserrée que pour Unither (Théa, Institut Pasteur, BNP
+Paribas, KFC). Différence notable avec la version Unither : pas de mention
+HPLC ni essais cliniques dans les compétences (Luisa ne les a pas incluses
+dans son brouillon pour cette candidature, à ne pas rajouter sans qu'elle le
+demande). Ajout d'une ligne "bonne pratique d'Excel pour le traitement de
+données" dans les outils, jugée cohérente avec la compétence déjà confirmée
+"analyse et interprétation de données".
+
+Le qualificatif "acteur majeur de la santé animale" du brouillon de Luisa a
+été retiré du profil (même logique que "leader mondial" pour Unither :
+trop proche des formulations génériques à éviter), remplacé par une
+formulation neutre centrée sur le secteur plutôt que sur le classement de
+l'entreprise.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
