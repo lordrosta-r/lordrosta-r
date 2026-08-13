@@ -301,6 +301,18 @@ Banguimall, Cabon et Chargée de promotion terrain volontairement écartés
 de ce CV (moins pertinents pour ce secteur), mais restent disponibles pour
 d'autres candidatures.
 
+LM créée le 2026-08-13 en complément. Objet : candidature à une alternance
+en contrôle qualité ou assurance qualité (Luisa n'a pas tranché entre les
+deux, la lettre assume ce choix ouvertement plutôt que de trancher à sa
+place). Éléments factuels sur l'entreprise fournis par Luisa et repris tels
+quels : site du Haillan (33), spécialisation unidose stérile, plus de 50
+personnes en R&D, développement pharmaceutique et fabrication clinique et
+commerciale sur site. Le superlatif "leader mondial" et la formule "CDMO
+d'excellence" du brouillon de Luisa ont été retirés (trop proches des
+formulations génériques qu'elle demande d'éviter) au profit d'une
+description factuelle du site. Adresse destinataire limitée à "Site du
+Haillan (33)", sans numéro de rue inventé.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
