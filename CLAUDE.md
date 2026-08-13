@@ -335,6 +335,16 @@ trop proche des formulations génériques à éviter), remplacé par une
 formulation neutre centrée sur le secteur plutôt que sur le classement de
 l'entreprise.
 
+LM créée le 2026-08-14, cette fois à partir d'une vraie offre transmise par
+Luisa (réf. req7585) : alternance assurance qualité, site de Libourne (33).
+Missions reprises de l'offre : rédaction des revues annuelles qualité
+produit, coordination entre services, organisation de comités, suivi des
+CAPA, préparation des audits et inspections. Comme pour Unither, "leader
+mondial de la santé animale" et "environnement d'excellence" ont été
+retirés du brouillon de Luisa (même logique anti flatterie générique),
+remplacés par un ancrage sur les missions concrètes de l'offre. Adresse
+destinataire : "Site de Libourne (33)", sans numéro de rue inventé.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
