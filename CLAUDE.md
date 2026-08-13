@@ -366,6 +366,18 @@ les deux précédents), HPLC gardé (compétence confirmée). Compétences
 structurées en trois blocs : analyses et laboratoire, qualité et
 réglementaire, rédaction et analyse.
 
+LM créée le 2026-08-14. Toujours pas d'offre précise, mais Luisa a apporté un
+fait concret et vérifiable sur l'entreprise : le site de Lisieux (14) est le
+plus grand site de production de Doliprane au monde, repris tel quel comme
+point d'ancrage de la lettre. "Leader mondial de la santé" et "environnement
+d'excellence" retirés (même logique anti flatterie que sur les lettres
+précédentes). Le brouillon de Luisa affirmait être "capable de rédiger des
+documents techniques en anglais" : reformulé plus prudemment en "mon niveau
+d'anglais (B2) me permet de travailler sur des documents dans un contexte
+international", faute de confirmation explicite d'une pratique rédactionnelle
+technique en anglais. Adresse destinataire : "Site de Lisieux (14)", sans
+numéro de rue inventé.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
