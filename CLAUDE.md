@@ -403,6 +403,16 @@ dans les dispositifs médicaux dentaires" qui est une description factuelle
 du secteur plutôt qu'un classement. Mêmes règles par ailleurs : pas de
 "Gestion de projet", HPLC gardé.
 
+## CV candidature spontanée — Meribel Pharma
+
+Créé le 2026-08-14. Sixième piste, CDMO pharmaceutique généraliste comme
+Unither. Nouveauté : catégorie de compétence "Développement et formulation"
+(notions de formulation, développement analytique, méthodes HPLC), cohérente
+avec la compétence déjà confirmée "chimie des matériaux (polymères,
+formulation)". "CDMO d'excellence" et "acteur majeur de la sous-traitance
+pharmaceutique" retirés du brouillon de Luisa (même logique anti flatterie).
+Mêmes règles par ailleurs : pas de "Gestion de projet", HPLC gardé.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
