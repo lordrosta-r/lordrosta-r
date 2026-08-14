@@ -378,6 +378,16 @@ international", faute de confirmation explicite d'une pratique rédactionnelle
 technique en anglais. Adresse destinataire : "Site de Lisieux (14)", sans
 numéro de rue inventé.
 
+## CV candidature spontanée — Boiron
+
+Créé le 2026-08-14. Quatrième piste alternance qualité pharma, même
+gabarit que le CV Sanofi (candidature spontanée, périmètre "qualité, R&D ou
+production", même sélection d'expériences, mêmes règles déjà actées : pas
+de "Gestion de projet", HPLC gardé, pas de flatterie du type "laboratoire
+d'excellence" ou "acteur majeur de la santé intégrative" reprises du
+brouillon de Luisa). Seule différence : le nom de l'entreprise dans le
+paragraphe profil.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
