@@ -388,6 +388,21 @@ d'excellence" ou "acteur majeur de la santé intégrative" reprises du
 brouillon de Luisa). Seule différence : le nom de l'entreprise dans le
 paragraphe profil.
 
+## CV candidature spontanée — Produits Dentaires Pierre Rolland
+
+Créé le 2026-08-14. Cinquième piste, cette fois sur les dispositifs
+médicaux dentaires plutôt que le pharma généraliste. Titre adapté en
+conséquence : "Alternance qualité / R&D, dispositifs médicaux" (au lieu de
+"industrie pharmaceutique"). Ajout d'une catégorie de compétence
+"Dispositifs médicaux" ancrée sur le stage Théa (le stage couvre bien
+"des médicaments et des dispositifs médicaux" et la coordination avec les
+affaires réglementaires, donc c'est un ancrage réel, pas inventé). "Un
+leader comme Produits Dentaires Pierre Rolland" retiré du brouillon de
+Luisa (même logique anti flatterie), gardé uniquement "acteur spécialisé
+dans les dispositifs médicaux dentaires" qui est une description factuelle
+du secteur plutôt qu'un classement. Mêmes règles par ailleurs : pas de
+"Gestion de projet", HPLC gardé.
+
 ## Historique — pistes antérieures (référence, non actives)
 
 - CV "Alternance — Ingénieur Analyse du Cycle de Vie & Éco-conception" et CV
