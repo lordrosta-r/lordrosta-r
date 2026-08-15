@@ -252,7 +252,12 @@ Candidatures envoyées sur cette piste :
   donc CV construit autour de Théa, BNP Paribas, KFC et Institut Pasteur
   (rigueur documentaire, accueil, coordination) plutôt que Carrefour/Banguimall.
   Nouvelle compétence confirmée à cette occasion : Canva (usage régulier),
-  désormais dans le profil de référence.
+  désormais dans le profil de référence. LM créée le même jour à partir
+  d'une vraie offre (n° 211JMXD) : reprend l'anecdote de la mission de
+  L'BURN (femmes victimes de burn-out) et garde le paragraphe honnête sur
+  l'absence de formation comptable, en s'appuyant sur la gestion de caisse
+  déjà confirmée. Pas d'adresse destinataire (association, aucune fournie
+  par Luisa, pas d'adresse inventée).
 
 ## CV généraliste ATS (candidature spontanée / agences d'intérim)
 
