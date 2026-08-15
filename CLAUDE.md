@@ -137,8 +137,9 @@ n'a pas eu le temps de tout détailler à l'avance. En conséquence :
 ## Compétences (fusion des versions existantes)
 
 - **Langues** : Français (natif), Sango (natif), Anglais (B1/B2, écrit et oral)
-- **Outils** : Pack Office (Excel, Word, PowerPoint), Outlook, curiosité pour
-  les outils numériques
+- **Outils** : Pack Office (Excel, Word, PowerPoint), Outlook, Canva
+  (création de supports visuels, flyers, présentations, confirmé par Luisa
+  le 2026-08-14, usage régulier), curiosité pour les outils numériques
 - **Scientifique/technique** : chimie analytique (chromatographie dont HPLC,
   spectrophotométrie, analyse thermique, dosages), chimie des matériaux
   (polymères, formulation), analyse et interprétation de données, études de
@@ -245,6 +246,13 @@ Candidatures envoyées sur cette piste :
   (4 août 2026).
 - Donuts and Donuts, boutique CC Rive d'Arcins (Bègles), vendeuse polyvalente,
   10h/semaine (6 août 2026).
+- L'BURN (association accompagnant des femmes victimes de burn-out),
+  secrétaire polyvalente, temps partiel 21h/semaine, disponible immédiatement
+  (14 août 2026). Registre différent des deux précédentes : poste administratif,
+  donc CV construit autour de Théa, BNP Paribas, KFC et Institut Pasteur
+  (rigueur documentaire, accueil, coordination) plutôt que Carrefour/Banguimall.
+  Nouvelle compétence confirmée à cette occasion : Canva (usage régulier),
+  désormais dans le profil de référence.
 
 ## CV généraliste ATS (candidature spontanée / agences d'intérim)
 
