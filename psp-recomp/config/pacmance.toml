@@ -1,0 +1,48 @@
+# Profil de recompilation — module "pacmance"
+#
+# Toutes les valeurs de [input] et [segments] proviennent de l'en-tete ~PSP
+# lu en clair sur l'EBOOT.BIN fourni (voir docs/ANALYSE-BINAIRES.md).
+# Le reste est a completer une fois le module dechiffre.
+
+[input]
+module_name    = "pacmance"
+module_version = "1.1"
+sdk_version    = "6.02"          # devkit_version = 0x06020010
+elf_size       = 0xB38EC
+psp_size       = 0xB3A40
+entry_point    = 0x108
+modinfo_offset = 0x6A28C
+bss_size       = 0xA5A2C
+kirk_tag       = 0xD9160BF0
+sha1_encrypted = "6b297b31ac5044ff969a8bcf9a9a8e4c88948f82"
+
+# Chemin vers l'ELF Allegrex en clair, produit par pspdecrypt.
+# Non versionne : chacun fournit son propre dump.
+decrypted_elf = "input/pacmance.elf"
+
+[[segments]]
+index = 0
+addr  = 0x00000000
+size  = 0x81F68
+align = 16
+kind  = "text+rodata"
+
+[[segments]]
+index = 1
+addr  = 0x00081F80
+size  = 0xA6A24
+align = 64
+kind  = "data"
+
+[symbols]
+# Genere par l'analyse Ghidra (export via psp-ghidra-scripts).
+source = "config/pacmance.sym"
+
+[patches]
+# Fonctions que le recompilateur ne sait pas traduire et qu'on reimplemente
+# a la main en C++ : busy-wait sur registre materiel, code auto-modifiant,
+# routines VFPU exotiques. A remplir au fil des plantages.
+manual = []
+
+[runtime]
+ram_size_mb = 64
