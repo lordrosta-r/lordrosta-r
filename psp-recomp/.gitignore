@@ -1,8 +1,0 @@
-build/
-recompiled/
-input/
-*.elf
-*.prx
-*.BIN
-*.iso
-*.sym
